@@ -17,8 +17,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- Agile Coach: facilitates ceremonies, coaches teams on agile practices, drives continuous improvement.
+- Release Manager: coordinates release schedules, manages deployment process, ensures release quality.
+- Business Analyst: gathers requirements, documents processes, bridges business and technical teams.
+- UX/UI Designer: conducts user research, creates designs, ensures accessible and intuitive interfaces.
+- DevOps Engineer: builds CI/CD pipelines, manages infrastructure, ensures reliable deployments.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions, responsibilities, and interaction patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -36,10 +43,17 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
+- Daily: Standup meetings for development team (Developers, DevOps Engineers)
+- Twice-weekly: Delivery syncs and progress reviews
 - Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
+- Weekly: Backlog refinement sessions (Product Manager, Business Analyst, team representatives)
+- Bi-weekly or per sprint: Sprint planning, review, retrospective (facilitated by Agile Coach)
+- As needed: Design reviews (UX/UI Designer with Product Manager and stakeholders)
+- Release planning: Regular coordination between Release Manager, DevOps, and delivery teams
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+For detailed communication strategies and handoff points, see [Communication & Handoff Checklist](octoacme-communication-and-handoff-checklist.md).
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.

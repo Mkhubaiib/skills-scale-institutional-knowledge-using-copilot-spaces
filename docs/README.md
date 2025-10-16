@@ -11,7 +11,8 @@ Continuous improvement is a core value at OctoAcme. After each sprint, release, 
 ## Process Documentation
 
 - [**Project Management Overview**](octoacme-project-management-overview.md) - Comprehensive introduction to OctoAcme's project management principles, core roles, key artifacts, and communication cadence
-- [**Roles and Personas**](octoacme-roles-and-personas.md) - Detailed definitions of Developer, Product Manager, and Project Manager roles with responsibilities, goals, and communication patterns
+- [**Roles and Personas**](octoacme-roles-and-personas.md) - Detailed definitions of all team roles including Developers, Product Managers, Project Managers, Agile Coaches, Release Managers, Business Analysts, UX/UI Designers, and DevOps Engineers with responsibilities, goals, communication patterns, and role interaction matrix
+- [**Communication & Handoff Checklist**](octoacme-communication-and-handoff-checklist.md) - Comprehensive checklists and templates for smooth handoffs between project phases and team members
 - [**Project Initiation**](octoacme-project-initiation.md) - Initial steps to validate and authorize work, including project one-pager template and initiation checklist
 - [**Project Planning**](octoacme-project-planning.md) - Guidance for turning approved initiatives into actionable plans with backlog creation, estimation, and sprint planning
 - [**Execution and Tracking**](octoacme-execution-and-tracking.md) - Day-to-day execution practices including team rhythm, workflows, quality standards, and blocker escalation
