@@ -4,9 +4,12 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Daily standups (15 min) — focus on progress, blockers, dependencies (Developers, DevOps Engineers, QA)
+- Weekly delivery sync — show progress, updates, and flagged risks (Project Manager with team leads)
+- Weekly backlog refinement — prepare upcoming work (Product Manager, Business Analyst, team representatives)
+- Design reviews — validate UX/UI designs and gather feedback (UX/UI Designer with stakeholders)
+- Demo/Review at the end of each sprint or milestone (whole team, facilitated by Agile Coach or Project Manager)
+- Retrospectives — capture learnings and improvement actions (facilitated by Agile Coach)
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -35,6 +38,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] CI configured for tests and lint (DevOps Engineer)
+- [ ] Regular demos scheduled with stakeholders
+- [ ] Risk register updated weekly (Project Manager)
+- [ ] Design handoffs completed when UI work is ready (UX/UI Designer to Developers)
+- [ ] QA signoff process established and followed
+- [ ] Release Manager informed of deployment readiness
+- [ ] Team velocity and metrics tracked for continuous improvement
+
+For detailed handoff procedures between phases, see [Communication & Handoff Checklist](octoacme-communication-and-handoff-checklist.md).
